@@ -123,7 +123,7 @@ $ sudo apt install gtkwave
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="  " 
+  <img src="https://github.com/Rahul23-byte/RISC-V-SoC-Tapeout./blob/main/WEEK%200/GTKWave.png " 
        alt="GTKWave Installed" width="600"/>
 </p>
 
