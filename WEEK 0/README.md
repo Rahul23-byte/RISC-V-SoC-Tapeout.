@@ -9,7 +9,9 @@ The objective of this week was clear:
 
 ## 🖥️ Virtual Machine Setup – My Workstation Blueprint  
 
-To balance efficiency with performance, I deployed a **Virtual Machine (VM)** tailored for VLSI workflows.  
+To balance efficiency with performance, I deployed a **Virtual Machine (VM)** tailored for VLSI workflows. 
+
+<div align="center">
 
 | **Specification 💻** | **Details 📋** |  
 |-----------------------|----------------|  
@@ -17,6 +19,8 @@ To balance efficiency with performance, I deployed a **Virtual Machine (VM)** ta
 | **RAM 💾** | 6 GB |  
 | **Storage 💿** | 50 GB HDD |  
 | **vCPUs ⚡** | 4 cores |  
+
+</div>
 
 💡 *Insight:* With this configuration, even complex synthesis and simulation workloads can be handled without hiccups.  
 
@@ -220,29 +224,52 @@ sudo make install
 
 <div align="center">
 
-## 🎉 **Installation Summary**
+# 🎉 Installation Recap – Week 0  
 
-| Tool | Status | Primary Use |
-|------|--------|-------------|
-| 🧠 **Yosys** | ✅ Complete | RTL Synthesis |
-| 📟 **Iverilog** | ✅ Complete | Verilog Simulation |
-| 📊 **GTKWave** | ✅ Complete | Waveform Analysis |
-| ⚡ **Ngspice** | ✅ Complete | Circuit Simulation |
-| 🎨 **Magic VLSI** | ✅ Complete | Layout Design |
+All the essential tools are now up and running, forming a **complete open-source VLSI toolchain**. This setup ensures readiness for everything from RTL coding to physical design.  
 
-### 🚀 **Environment Ready for VLSI Design Journey!**
+---
+
+# 🎉 Installation Recap – Week 0  
+
+All the essential tools are now up and running, forming a **complete open-source VLSI toolchain**. This setup ensures readiness for everything from RTL coding to physical design.  
+
+---
+
+## 📦 Installed Tools & Status  
+
+| **Tool 🔧** | **Status ✅** | **Primary Role 🎯** |  
+|-------------|---------------|---------------------|  
+| 🧠 **Yosys** | ✅ Complete | RTL Synthesis → Gate-level Netlist |  
+| 📟 **Icarus Verilog (Iverilog)** | ✅ Complete | Verilog Compilation & Simulation |  
+| 📊 **GTKWave** | ✅ Complete | Waveform Viewing & Analysis |  
+| ⚡ **Ngspice** | ✅ Complete | Circuit & Mixed-Signal Simulation |  
+| 🎨 **Magic VLSI** | ✅ Complete | Layout Design & Visualization |  
+
+✨ **Environment Ready →** Smooth VLSI design workflow from *RTL → GDS*!  
+
+---
+
+## 🌟 Key Takeaways  
+<div align="left">
+
+
+- ✅ A fully functional VM environment tailored for VLSI workflows is live.  
+- 🔧 Each open-source EDA tool has been installed and verified.  
+- 📈 The toolchain covers the entire digital design flow — from synthesis to layout.  
+- 🚀 The setup forms the foundation for upcoming RTL, verification, and layout tasks in the VSD journey.  
 
 </div>
 
 ---
 
-<div align="center">
+## 📂 Project Metadata  
 
-**📂 Repository:** [RTL2GDS_Alchemy](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy)  
-**👨‍💻 Author:** [TheVoltageVikingRam](https://github.com/TheVoltageVikingRam)  
-**📚 Program:** VLSI System Design (VSD)
-
-[![Follow](https://img.shields.io/github/followers/TheVoltageVikingRam?style=social)](https://github.com/TheVoltageVikingRam)
-[![Stars](https://img.shields.io/github/stars/TheVoltageVikingRam/RTL2GDS_Alchemy?style=social)](https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy)
+<div align="left">
+   
+- 📂 **Repository**: `RTL2GDS_Alchemy`  
+- 👨‍💻 **Author**: *TheVoltageVikingRam*  
+- 📚 **Program**: *VLSI System Design (VSD)*  
 
 </div>
+---
