@@ -1,1 +1,21 @@
+Week 0 — Description & Purpose
 
+In Week 0, my goal was to lay the groundwork for the rest of the RTL-to-GDSII design flow. This means setting up all required tools, verifying the environment, and making sure I understand the flow and roles of each component. The content in this folder captures what I did, what I learned, and the state of my setup.
+
+What is in this Folder
+
+Installation logs / screenshots of tools like Yosys, Icarus Verilog, Magic VLSI, OpenLane, etc.
+
+Configuration files (if any), environment checks, version outputs to verify that each tool is working.
+
+README with notes about what tools were installed, what worked, any difficulties encountered.
+
+Images or diagrams showing tool logos, possibly flow-diagram of the ASIC design pipeline (RTL → Synthesis → Placement/Routing → GDSII).
+
+Why It’s Important
+
+Ensures reproducibility: someone else can look at this and see exactly what tools & versions I used.
+
+Helps me troubleshoot later: if something fails in synthesis or layout, I have a reference of what my baseline was.
+
+Provides clarity: understanding what each tool does and how they fit into the overall ASIC pipeline.
