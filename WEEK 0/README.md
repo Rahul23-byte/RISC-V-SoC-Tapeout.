@@ -1,51 +1,51 @@
-# 🚀 Week 0: VLSI System Design (VSD) Program Foundation & Tool Setup
+# 🚀 Week 0 – Kickoff: VLSI System Design (VSD) Journey & Toolchain Setup  
 
+This marks the **beginning of my VLSI System Design (VSD) Program journey**. The very first milestone was to **build a strong foundation by setting up the working environment** — ensuring that all the necessary open-source tools for synthesis, simulation, circuit analysis, and layout are ready to go.  
 
-Welcome to my **VLSI System Design (VSD) Program** repository! This week focused on setting up the development environment and installing the essential open-source tools that will be used throughout the program. The goal was to create a reliable and efficient workspace for synthesis, simulation, and design tasks.
-
----
-
-## 🎯 **System and Virtual Machine Configuration**
-
-To ensure optimal performance, I configured a **Virtual Machine (VM)** with the following specifications:
-
-<div align="center">
-
-| **Specification** 💻    | **Details** 📋          |
-|-----------------------|-----------------------|
-| **Operating System** 🐧  | Ubuntu 20.04+         |
-| **RAM** 💾               | 6GB                   |
-| **Storage** 💿           | 50GB HDD              |
-| **vCPUs** ⚡             | 4                     |
-
-</div>
-
-> 💡 **Pro Tip:** This setup guarantees sufficient resources for handling toolchain demands and running simulations smoothly.
+The objective of this week was clear:  
+👉 **Create a stable, resource-optimized workspace** for smooth execution of RTL design, verification, and analysis tasks.  
 
 ---
 
-## ⚙️ **Tool Installation & Verification**
+## 🖥️ Virtual Machine Setup – My Workstation Blueprint  
 
-The following tools were installed for RTL synthesis, simulation, circuit analysis, and layout design. Below are the installation steps and verification commands.
+To balance efficiency with performance, I deployed a **Virtual Machine (VM)** tailored for VLSI workflows.  
 
-<div align="center">
+| **Specification 💻** | **Details 📋** |  
+|-----------------------|----------------|  
+| **OS 🐧** | Ubuntu 20.04 (or higher) |  
+| **RAM 💾** | 6 GB |  
+| **Storage 💿** | 50 GB HDD |  
+| **vCPUs ⚡** | 4 cores |  
 
-```
-🧠 Yosys → 📟 Iverilog → 📊 GTKWave → ⚡ Ngspice → 🎨 Magic VLSI
-```
-
-</div>
+💡 *Insight:* With this configuration, even complex synthesis and simulation workloads can be handled without hiccups.  
 
 ---
 
-### 🧠 **1. Yosys – RTL Synthesis Tool**
+## ⚙️ Open-Source Toolchain – Installed & Verified  
 
-<details>
-<summary><b>Purpose:</b> Converts RTL code into gate-level representations.</summary>
+A complete VLSI flow requires different tools at different design stages. This week, I ensured each one was installed, tested, and ready for action.  
 
-Yosys is a framework for Verilog RTL synthesis, providing synthesis algorithms and optimization passes for digital circuits.
+### 🔧 Tools in the Flow  
+1. **Yosys** 🧠 – *RTL Synthesis Engine*  
+   - Function: Translates RTL code into a gate-level netlist.  
 
-</details>
+2. **Icarus Verilog (Iverilog)** 📟 – *Simulation Platform*  
+   - Function: Compiles & simulates Verilog designs.  
+
+3. **GTKWave** 📊 – *Waveform Visualizer*  
+   - Function: Provides an intuitive GUI to analyze simulation results.  
+
+4. **Ngspice** ⚡ – *Circuit-Level Simulation*  
+   - Function: Handles analog and mixed-signal circuit simulations.  
+
+5. **Magic VLSI** 🎨 – *Layout Tool*  
+   - Function: Enables physical design and layout visualization.  
+
+✅ *Each tool was installed and successfully verified using test commands.*  
+
+---
+
 
 ## ✅ **Yosys Installation**
 
