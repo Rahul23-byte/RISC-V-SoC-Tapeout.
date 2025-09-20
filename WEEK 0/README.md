@@ -210,7 +210,7 @@ sudo make install
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/Rahul23-byte/RISC-V-SoC-Tapeout./blob/main/WEEK%200/Magic%20VLSI.png" 
+  <img src="https://github.com/Rahul23-byte/RISC-V-SoC-Tapeout./blob/main/WEEK%200/Magic%20vlsi.png" 
        alt="magic vlsi Installed" width="600"/>
 </p>
 
