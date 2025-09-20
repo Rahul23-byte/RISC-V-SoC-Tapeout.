@@ -33,4 +33,114 @@ The following tools were installed for RTL synthesis, simulation, circuit analys
 
 <div align="center">
 
+🧠 Yosys → 📟 Iverilog → 📊 GTKWave → ⚡ Ngspice → 🎨 Magic VLSI
 
+
+</div>
+
+---
+
+### 🧠 **1. Yosys – RTL Synthesis Tool**
+
+<details>
+<summary><b>Purpose:</b> Converts RTL code into gate-level representations.</summary>
+
+Yosys is a framework for Verilog RTL synthesis, providing synthesis algorithms and optimization passes for digital circuits.
+
+</details>
+
+#### ✅ **Yosys Installation**
+
+```bash
+# Day 0 - Tools Installation
+## Yosys
+git clone https://github.com/YosysHQ/yosys.git
+cd yosys 
+sudo apt install make # (If make is not installed please install it) 
+sudo apt-get install build-essential clang bison flex \
+    libreadline-dev gawk tcl-dev libffi-dev git \
+    graphviz xdot pkg-config python3 libboost-system-dev \
+    libboost-python-dev libboost-filesystem-dev zlib1g-dev
+make 
+sudo make install
+
+📷 Installation Verification
+
+📟 2. Iverilog – Verilog Simulator
+<details> <summary><b>Purpose:</b> Compiles and simulates Verilog designs for functional verification.</summary>
+
+Icarus Verilog is a Verilog simulation and synthesis tool that supports the IEEE-1364 Verilog HDL standard.
+
+</details>
+Iverilog Installation
+
+sudo apt-get install iverilog
+
+📷 Installation Verification
+📊 3. GTKWave – Waveform Viewer
+<details> <summary><b>Purpose:</b> Analyzes and visualizes simulation waveforms for debugging.</summary>
+
+GTKWave is a fully featured GTK+ based wave viewer for Unix, Win32, and Mac OSX.
+
+</details>
+
+GTKWave Installation
+
+sudo apt update
+sudo apt install gtkwave
+
+📷 Installation Verification
+
+⚡ 4. Ngspice – Circuit Simulator
+<details> <summary><b>Purpose:</b> Performs analog and mixed-signal circuit simulation.</summary>
+
+Ngspice is a mixed-level/mixed-signal circuit simulator based on Spice3f5, Cider1b1 and Xspice.
+
+</details>
+
+sudo apt update
+sudo apt install ngspice
+
+📷 Installation Verification
+
+🎨 5. Magic VLSI – Layout Tool
+<details> <summary><b>Purpose:</b> Creates, edits, and analyzes VLSI layouts with DRC capabilities.</summary>
+
+Magic VLSI is an open-source VLSI layout tool widely used for IC design, DRC, and visualization.
+
+</details>
+✅ Magic VLSI Installation
+
+Magic VLSI
+ is an open-source VLSI layout tool widely used for IC design, DRC, and visualization.
+
+# Install required dependencies
+sudo apt-get install m4 tcsh csh libx11-dev tcl-dev tk-dev libcairo2-dev mesa-common-dev libglu1-mesa-dev libncurses-dev
+
+# Clone Magic repository
+git clone https://github.com/RTimothyEdwards/magic
+cd magic
+
+# Configure, Build & Install
+./configure
+make
+sudo make install
+
+📷 Installation Verification
+
+<div align="center">
+| Tool              | Status     | Primary Use        |
+| ----------------- | ---------- | ------------------ |
+| 🧠 **Yosys**      | ✅ Complete | RTL Synthesis      |
+| 📟 **Iverilog**   | ✅ Complete | Verilog Simulation |
+| 📊 **GTKWave**    | ✅ Complete | Waveform Analysis  |
+| ⚡ **Ngspice**     | ✅ Complete | Circuit Simulation |
+| 🎨 **Magic VLSI** | ✅ Complete | Layout Design      |
+
+🚀 Environment Ready for VLSI Design Journey!
+</div>
+<div align="center">
+
+👨‍💻 Author: Rahul23-byte
+
+📚 Program: VLSI System Design (VSD)
