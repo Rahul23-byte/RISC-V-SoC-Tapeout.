@@ -40,11 +40,6 @@ This program is a stepping stone in India’s semiconductor journey, aiming to e
 
 ---
 
-## 🙏 Acknowledgments  
-
-Special thanks to **Kunal Ghosh** and the **VSD team** for creating this unique platform to learn, collaborate, and contribute to silicon design at scale.  
-
----
 
 ## 🔗 Useful Links  
 
