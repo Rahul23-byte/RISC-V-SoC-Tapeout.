@@ -98,7 +98,7 @@ $ sudo apt-get install iverilog
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/Rahul23-byte/RISC-V-SoC-Tapeout./blob/main/WEEK%200/iverilog.png" 
+  <img src="https://github.com/Rahul23-byte/RISC-V-SoC-Tapeout./blob/main/WEEK%200/Iverilog.png" 
        alt="Iverilog Installed" width="600"/>
 </p>
 
