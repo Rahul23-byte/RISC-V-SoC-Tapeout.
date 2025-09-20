@@ -123,7 +123,7 @@ $ sudo apt install gtkwave
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/Rahul23-byte/RISC-V-SoC-Tapeout./blob/main/WEEK%200/Magic%20VLSI.png" 
+  <img src="  " 
        alt="GTKWave Installed" width="600"/>
 </p>
 
@@ -206,7 +206,7 @@ sudo make install
 
 ## 📷 **Installation Verification**
 <p align="center">
-  <img src="https://github.com/TheVoltageVikingRam/RTL2GDS_Alchemy/blob/main/Week0/assets/magic_vlsi_installed.png" 
+  <img src="https://github.com/Rahul23-byte/RISC-V-SoC-Tapeout./blob/main/WEEK%200/Magic%20VLSI.png" 
        alt="magic vlsi Installed" width="600"/>
 </p>
 
