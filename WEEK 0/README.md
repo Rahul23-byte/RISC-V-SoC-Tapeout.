@@ -261,8 +261,8 @@ All the essential tools are now up and running, forming a **complete open-source
 
 <div align="left">
    
-- 📂 **Repository**: `RTL2GDS_Alchemy`  
-- 👨‍💻 **Author**: *TheVoltageVikingRam*  
+- 📂 **Repository**: [RISC-V-SoC-Tapeout.](  )   
+- 👨‍💻 **Author**: [Rahul23-byte] ()
 - 📚 **Program**: *VLSI System Design (VSD)*  
 
 </div>
