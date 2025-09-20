@@ -230,12 +230,6 @@ All the essential tools are now up and running, forming a **complete open-source
 
 ---
 
-# 🎉 Installation Recap – Week 0  
-
-All the essential tools are now up and running, forming a **complete open-source VLSI toolchain**. This setup ensures readiness for everything from RTL coding to physical design.  
-
----
-
 ## 📦 Installed Tools & Status  
 
 | **Tool 🔧** | **Status ✅** | **Primary Role 🎯** |  
