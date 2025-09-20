@@ -1,4 +1,4 @@
-⚡ RTL2GDS Journey — SoC Tapeout with VSD & RISC-V
+🖥️ RISC-V Reference SoC Tapeout Program VSD
 
 👋 Welcome! This repository records my week-by-week progress as I take part in the RISC-V SoC Tapeout Program organized by VLSI System Design (VSD).
 
