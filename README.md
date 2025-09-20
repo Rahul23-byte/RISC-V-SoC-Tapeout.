@@ -49,7 +49,6 @@ This program is a stepping stone in India’s semiconductor journey, aiming to e
 
 ---
 
-👨‍💻 **Author / Participant:** Rahul23-byte  
-📂 Repository: *RTL2GDS Journey*  
+👨‍💻 **Author / Participant:** Rahul23-byte    
 
 ✨ *Stay tuned for updates as I move closer to generating my first Tapeout-ready chip!*  
